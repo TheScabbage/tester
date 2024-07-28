@@ -1,9 +1,9 @@
 Super simple test invokation script using recursive file watching.
 
-# Usage
+## Usage
 Specify the custom command and file ignore settings at the top of the script.
 Invoke the script in the root directory of a project.
 
-# Dependencies
+## Dependencies
 - inotifywait
 - git (if using .gitignore)
