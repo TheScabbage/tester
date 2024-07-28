@@ -6,7 +6,7 @@
 TEST_CMD="zig build test"
 
 USE_GITIGNORE=true
-IGNORED_PATHS=("readme.md" ".png")
+IGNORED_PATHS=("readme.md" ".png" ".git")
 
 DIR_TO_WATCH="."
 
